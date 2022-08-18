@@ -1,0 +1,26 @@
+[20220818-04:15:04] [CORE ] main: app started pid 1707(0x000006ab)
+[20220818-04:15:04] [INFO ] main: DISPLAY env var set to :10.0
+[20220818-04:15:04] [INFO ] main: using DISPLAY 10
+[20220818-04:15:04] [INFO ] channel_thread_loop: thread start
+[20220818-04:15:04] [INFO ] Socket 12: AF_UNIX connection received
+[20220818-04:15:04] [INFO ] send_init_response_message:
+[20220818-04:17:41] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:20:56] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:22:23] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:22:45] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:26:21] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:33:03] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:34:06] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:34:40] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:35:15] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:35:52] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:36:15] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:37:30] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:37:41] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:38:16] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:39:46] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:41:06] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:41:25] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:41:45] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:42:11] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220818-04:42:30] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
